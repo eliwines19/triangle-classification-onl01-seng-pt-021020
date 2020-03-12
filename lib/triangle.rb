@@ -22,10 +22,10 @@ class Triangle
     end
   end
   #This method basically tells you if your triangle that was instantiated is an
-  #equilateral, isosceles, or scalene triangle 
+  #equilateral, isosceles, or scalene triangle
 
   class TriangleError < StandardError
-    
+
   end
   #This class is the error class and is raised if the first if and elsif statements are not met 
 end
